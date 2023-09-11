@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&family=Poppins:wght@300&family=Quicksand:wght@300&display=swap');
+
+body{
+    margin: 0;
+    height: 100vh;
+    background-color:#000000 ;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.btn-custm{
+    background-color: deeppink;
+}
+
+.text-colr{
+    color:deeppink;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.nav-item a:hover{
+    color: deeppink;
+}
